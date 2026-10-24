@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="32" fill="#d5f36a"/><text x="32" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-size="37" fill="#20231f">W</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#20231F"/>
+  <path d="M20 34 41 94 64 53 87 94 108 34"
+        fill="none" stroke="#F5F3EC" stroke-width="12"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 53 87 94"
+        fill="none" stroke="#D5F36A" stroke-width="12"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 27h19v19"
+        fill="none" stroke="#D5F36A" stroke-width="7"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
